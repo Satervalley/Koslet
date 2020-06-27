@@ -7,11 +7,11 @@ namespace AutoVersion
 	static const int nDay = 27;
 	static const int nMajor = 0;
 	static const int nMinor = 0;
-	static const int nBuild = 264;
-	static const int nRevision = 316;
+	static const int nBuild = 265;
+	static const int nRevision = 317;
 }
 
-#define AUTOVERSION_FILEVERSION "0.00.264.316"
-#define AUTOVERSION_PRODUCTVERSION "0.00.264.316"
-#define AUTOVERSION_FILEVERSION_RAW 0,00,264,316
-#define AUTOVERSION_PRODUCTVERSION_RAW 0,00,264,316
+#define AUTOVERSION_FILEVERSION "0.00.265.317"
+#define AUTOVERSION_PRODUCTVERSION "0.00.265.317"
+#define AUTOVERSION_FILEVERSION_RAW 0,00,265,317
+#define AUTOVERSION_PRODUCTVERSION_RAW 0,00,265,317
