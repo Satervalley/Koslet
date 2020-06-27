@@ -8,7 +8,7 @@
   
   
 ## Screen shots
-![Config](../master/Screenshots/config.png)
+![Config](../master/Screenshots/Config.png)
     
 ## License  
 
