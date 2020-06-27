@@ -1,5 +1,5 @@
 # Koslet
- Koslet is a screensaver based on my n-body simulator ![Dots](https://github.com/Satervalley/Dots)
+ Koslet is a screensaver based on my n-body simulator [Dots](https://github.com/Satervalley/Dots)
 
 * OS: Windows  
 * Dev platform: Visual Studio comm 2019  
